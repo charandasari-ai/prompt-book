@@ -81,7 +81,9 @@ To add a prompt, say: `"add this prompt: [your prompt]"` — it gets categorized
 
 ## 🖥️ Claude Code
 
-> _No prompts yet. Add one!_
+| File | Title | Tags |
+|---|---|---|
+| [premium-website-builder-playbook.md](./claude-code/premium-website-builder-playbook.md) | Premium Website Builder Playbook | website, landing-page, react, screenshots, html |
 
 ---
 

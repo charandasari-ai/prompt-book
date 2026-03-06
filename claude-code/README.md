@@ -4,7 +4,7 @@ Prompts and workflows for Claude Code — slash commands, hooks, agents, agentic
 
 | File | Title | Tags |
 |---|---|---|
-| _empty_ | — | — |
+| [premium-website-builder-playbook.md](./premium-website-builder-playbook.md) | Premium Website Builder Playbook | website, landing-page, react, screenshots, html |
 
 ---
 
