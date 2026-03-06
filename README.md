@@ -29,6 +29,7 @@ To add a prompt, say: `"add this prompt: [your prompt]"` — it gets categorized
 | [📊 Data Analysis](#-data-analysis) | Extraction, summarization, structured output |
 | [🏗️ System Design](#️-system-design) | Architecture, APIs, scalability |
 | [🗂️ General](#️-general) | Everything else |
+| [🖥️ Claude Code](#️-claude-code) | Claude Code workflows, hooks, agents, CLI automation |
 
 ---
 
@@ -75,6 +76,10 @@ To add a prompt, say: `"add this prompt: [your prompt]"` — it gets categorized
 ---
 
 ## 🗂️ General
+
+> _No prompts yet. Add one!_
+
+## 🖥️ Claude Code
 
 > _No prompts yet. Add one!_
 
